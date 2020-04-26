@@ -1,0 +1,18 @@
+<config>
+<!--    <user v='<Username>'/> -->
+<!--    <team v='<TeamID>'/> -->
+<!--    <passkey v='***'/> -->
+    <!--  Folding Slots  -->
+    <slot id='0' type='CPU'>
+        <cpus v='1'/>
+        <idle v='False'/>
+        <paused v='False'/>
+    </slot>
+    <!-- Cause Preference -->
+    <cause v='COVID_19'/>
+    <!-- Checkpoint frequency -->
+    <checkpoint v='3'/>
+    <!-- Pause work while on battery power. This is useful for laptops -->
+    <pause-on-battery v='false'/>
+
+</config>
