@@ -1,2 +1,2 @@
-FROM roundcube/roundcubemail:1.4.3-fpm-alpine
+FROM roundcube/roundcubemail:latest-apache
 MAINTAINER info@anthra.hu
