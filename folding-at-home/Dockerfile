@@ -1,4 +1,5 @@
 FROM debian:stable-slim
+LABEL MAINTAINER="anthra"
 
 ARG userName="fah"
 ARG uid="11111"

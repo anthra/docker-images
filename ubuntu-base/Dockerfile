@@ -1,5 +1,5 @@
 FROM ubuntu:18.04
-MAINTAINER info@anthra.hu
+LABEL MAINTAINER="anthra"
 
 # Set environment variables.
 ENV HOME="/root" DEBIAN_FRONTEND=noninteractive
